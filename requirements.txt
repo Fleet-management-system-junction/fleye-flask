@@ -1,0 +1,19 @@
+bidict==0.22.1
+click @ file:///work/ci_py311/click_1676825163161/work
+Flask @ file:///work/ci_py311/flask_1676827140363/work
+Flask-Cors==4.0.0
+Flask-SocketIO==5.3.6
+h11==0.14.0
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///work/ci_py311/jinja2_1676823587943/work
+MarkupSafe @ file:///work/ci_py311/markupsafe_1676823507015/work
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+numpy @ file:///croot/numpy_and_numpy_base_1695830428084/work/dist/numpy-1.26.0-cp311-cp311-linux_x86_64.whl#sha256=184178a893ff0b5e0cb1b0b7a0dddff49dc91424c4e4a01e29bcb05f27a698a6
+paho-mqtt==1.6.1
+python-engineio==4.7.1
+python-socketio==5.9.0
+simple-websocket==1.0.0
+Werkzeug @ file:///croot/werkzeug_1679489717957/work
+wsproto==1.2.0
